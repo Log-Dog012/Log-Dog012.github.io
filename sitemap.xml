@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://log-dog012.github.io/</loc> <!-- 替换为你的网站实际URL -->
+    <lastmod>2025-08-20</lastmod> <!-- 最后更新日期，格式为YYYY-MM-DD -->
+    <changefreq>monthly</changefreq> <!-- 页面更新频率，可选：always、hourly、daily、weekly、monthly、yearly、never -->
+    <priority>1.0</priority> <!-- 页面优先级，0.0-1.0之间，1.0为最高 -->
+  </url>
+</urlset>
